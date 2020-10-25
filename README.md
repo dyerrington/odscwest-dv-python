@@ -1,4 +1,4 @@
-# Data Visualization: From Python to Production
+# Data Visualization: From Python to Dashboards
 
 Data visualization is fundamental to the data science process.  Using plots and graphs to convey a complex idea makes your data more accessible to everyone.  In this session, you will learn the fundamentals of plotting with Pandas in Jupyter by building an interactive visualization prototype that can also run as a standalone web application/dashboard.  This session is for anyone who wants to be more familiar with data visualization, hands-on, with Python, Pandas, Matplotlib, interactive widgets, and Flask.
 
