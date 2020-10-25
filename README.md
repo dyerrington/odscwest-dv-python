@@ -22,7 +22,7 @@ Data visualization is fundamental to the data science process.  Using plots and 
 
 ## Environment Setup
 
-This session is hands-on and interactive.  <span style="color:blue">To get the most out of this session, attendees should dedicate some time before the event to ensure their Python environments' have the proper configuration.  We will mainly be using Jupyter Lab and Python libraries.  Check out the [environment setup](./environment.md) guide for full-dteails.</span>
+This session is hands-on and interactive.  **To get the most out of this session, attendees should dedicate some time before the event to ensure their Python environments' have the proper configuration.  We will mainly be using Jupyter Lab and Python libraries.  Check out the [environment setup](./environment.md) guide for full-dteails.**
 
 >  If you show up without first reviewing the environment setup guide, it's very likely your machine won't be ready to go once we start coding so please review the guide and perform any configuration prior to our session.
 
