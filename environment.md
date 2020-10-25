@@ -105,7 +105,7 @@ http://127.0.0.1:5000/
 ![](https://snipboard.io/lBEsRt.jpg)
 
 
-## 5. Have a Code Editor Installed
+## 4. Have a Code Editor Installed
 
 This is hopefully the easiest step in all of this.  In our last session we will be coding outside of Jupyter Lab so it will be useful to have one of the following installed:
 
