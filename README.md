@@ -23,7 +23,9 @@ At the end of this session, attendees will:
 
 ## Environment Setup
 
-This session is hands-on and interactive.  To get the most out of this session, attendees should dedicate some time before the event to ensure their Python environments' have the proper configuration.  We will mainly be using Jupyter Lab and Python libraries.
+This session is hands-on and interactive.  To get the most out of this session, attendees should dedicate some time before the event to ensure their Python environments' have the proper configuration.  We will mainly be using Jupyter Lab and Python libraries.  Check out the [environment setup](./environment.md) guide for full-dteails.
+
+>  If you show up without first reviewing the environment setup guide, it's very likely your machine won't be ready to go once we start coding so please review the guide and perform any configuration prior to our session.
 
 ### General Prerequisites
 - Python >= 3.8.x
@@ -40,6 +42,3 @@ Gitbash - https://gitforwindows.org/
 
 Once we receive more feedback on the abstract and content for this session, I will finalize these prerequisites and provide a notebook that attendees and run to check the prerequisite libraries and provide a guide for installing the Python environment.
 
-### Optional
-For those having problems with library installs, a custom Docker container is available (TBD).  For instructions on installing Docker, please follow the official guide:
-https://docs.docker.com/get-docker/
