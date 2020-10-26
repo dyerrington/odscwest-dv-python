@@ -5,9 +5,9 @@ Data visualization is fundamental to the data science process.  Using plots and 
 ## Learning Objectives
 
 ### Part 1
-- Be familiar with everyday notebook and data visualization conventions 
-- Be able to describe the integration between matplotlib is integrated with Pandas
-- Understand the concept of "figure" and "axes." 
+- Be familiar with data visualization conventions within Jupyter Lab
+- Be able to describe the integration between matplotlib and Pandas
+- Understand the concept of "figure" and "axes" 
 - Implement standard plots using Pandas
 
 ### Part 2
