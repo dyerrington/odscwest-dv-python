@@ -1,6 +1,10 @@
+![](https://snipboard.io/6JDzr5.jpg)
+
 # Data Visualization: From Jupyter to Dashboards
 
 Data visualization is fundamental to the data science process.  Using plots and graphs to convey a complex idea makes your data more accessible to everyone.  In this session, you will learn the fundamentals of plotting with Pandas in Jupyter by building an interactive visualization prototype that can also run as a standalone web application/dashboard.  This session is for anyone who wants to be more familiar with data visualization, hands-on, with Python, Pandas, Matplotlib, interactive widgets, and Flask.
+
+> The majority of our session will be in Jupyter notebooks and writing code hands-on.  Please go through the [environment setup](./environment.md) ahead of time.
 
 ## Learning Objectives
 
@@ -38,6 +42,10 @@ Gitbash - https://gitforwindows.org/
 - Flask
 - Jupyter Lab
 - Pandas
+- Matplotlib
 
-Once we receive more feedback on the abstract and content for this session, I will finalize these prerequisites and provide a notebook that attendees and run to check the prerequisite libraries and provide a guide for installing the Python environment.
+### Slides
+
+Slides will be updated prior to event:
+https://www.icloud.com/keynote/0n4K_EMonbhwp2s064MrWJHDw#From_Jupyter_to_Dashboards
 
