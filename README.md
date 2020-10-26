@@ -6,18 +6,18 @@ Data visualization is fundamental to the data science process.  Using plots and 
 
 ### Part 1
 - Be familiar with data visualization conventions within Jupyter Lab
+- Implement standard plots using Pandas
 - Be able to describe the integration between matplotlib and Pandas
 - Understand the concept of "figure" and "axes" 
-- Implement standard plots using Pandas
 
 ### Part 2
+- Be familiar with other visual frameworks and assess their strengths 
 - [Panel](https://panel.holoviz.org/) fundamentals
 - Implement a basic prototype visualization for exploring data with interactive elements
-- Be familiar with other visual frameworks and assess their strengths 
 
 ### Part 3
-- Understand the tradeoffs between sharing notebooks vs. custom dashboards
-- Be able to identify the anatomy of a Flask web application
+- Tradeoffs between sharing notebooks vs. custom dashboards
+- Flask Fundamentals
 - Migrate a Panel visualization in Jupyter to Flask
 
 ## Environment Setup
