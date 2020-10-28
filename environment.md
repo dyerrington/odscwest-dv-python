@@ -80,7 +80,7 @@ python demo.py
 
 ![](https://snipboard.io/5D3pVB.jpg)
 
-Then check that the application is running in your browser @ http://localhost:8080
+Then check that the application is running in your browser @ http://127.0.0.1:8080 (localhost will give a websocket permission problem)
 
 ![](https://snipboard.io/olYSFy.jpg)
 >  You should see the 2 panel applications visible in the list and they should both load.
