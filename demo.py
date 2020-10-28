@@ -9,8 +9,6 @@ import panel as pn
 from bokeh.server.server import Server
 from tornado.ioloop import IOLoop
 
-app = Flask(__name__)
-
 df         = pd.read_csv("data/avocado.csv.zip").drop(columns = ["Unnamed: 0"])
 df['Date'] = pd.to_datetime(df['Date'])
 df         = df.set_index('Date')
