@@ -2,14 +2,13 @@
 
 > Please take the time to setup your Python environment ahead of time.  Even seasoned experts of Python may run into a library problem and need more time to work it out.  Our timeline for this session won't allow me to help everyone personally so please take advantage of this guide prior to attending our session together.
 
+It's ideal to setup a Python environment for each project you work on. Having a separate environment for each independent Python project or domain allows:
 
-It's ideal to setup a Python environment for new projects.  Having a seperate enviroment for each separate Python project or domain allows:
-
-- Library inconsistencies 
+- Fewer library inconsistencies 
 - Minimal library complexity
 - Maximum project portability
 
-For example, you migiht have a Python environment specifically for Jupyter and a specific analysis, or one for a dashboard application.  I recommend that you set up an environment specially for this session mainly for these reasons:
+For example, you might have a Python environment specifically for Jupyter and a specific analysis or one for a dashboard application. I recommend that you set up an environment, especially for this session, mainly for these reasons:
 
 - We all run the same libraries and versions
 - Any problems we encounter are more likely to be shared amongst everyone
@@ -20,11 +19,11 @@ So with this in mind, you can choose to install the following libraries in your 
 
 ## 1. Anaconda Environments
 
-It's recommended to use Anaconda to install the Python environment because it's easy to install a specific version of Python along with the required packages in our [requirements.txt](./requirements.txt) file.  You can also use [virtualenv](https://docs.python-guide.org/dev/virtualenvs/) but the setup is a bit more complex to setup the libraries with a specific version of Python.
+It's recommended to use Anaconda to install the Python environment because it's easy to install a specific Python version along with the required packages in our [requirements.txt](./requirements.txt) file.  You can also use [virtualenv](https://docs.python-guide.org/dev/virtualenvs/), but the setup is a bit trickier to use a specific version of Python with.
 > If you're already hip to setting up and managing your Python environments, you can move on to the next step in setup and configuration.
 
 ### 1.1 Anaconda
-If you already use [Anaconda Individual](https://www.anaconda.com/products/individual) you can create an environemnt called `odsc-dv` with the appropriate packages using Python `3.8.5` with the following command from this cloned repo:
+Using [Anaconda Individual](https://www.anaconda.com/products/individual), create an environemnt called `odsc-dv` with the appropriate packages using Python `3.8.5` with the following command from this cloned repo:
 
 ```bash
 conda create --name odsc-dv --file requirements.txt python=3.8.5
@@ -105,7 +104,7 @@ http://127.0.0.1:5000/
 ![](https://snipboard.io/lBEsRt.jpg)
 
 
-## 5. Have a Code Editor Installed
+## 4. Have a Code Editor Installed
 
 This is hopefully the easiest step in all of this.  In our last session we will be coding outside of Jupyter Lab so it will be useful to have one of the following installed:
 
